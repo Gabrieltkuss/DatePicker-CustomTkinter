@@ -119,6 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to customize this README to better suit your project's specific details and needs!
 
 Examples
+
 ![image](https://github.com/user-attachments/assets/38702ee3-0361-4a4b-82dd-c0bde5202988)
 ![image](https://github.com/user-attachments/assets/11ba39e6-34fd-42e1-813d-7affafb73f96)
 ![image](https://github.com/user-attachments/assets/7421afc4-3e85-48ed-bd46-8305e53c6eda)
